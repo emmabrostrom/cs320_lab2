@@ -1,5 +1,6 @@
 Team Members:
 
 *Emma
+*Duc
 *Blade
-*TODO: Others
+
