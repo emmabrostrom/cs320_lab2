@@ -1,4 +1,5 @@
 Team Members:
 
 *Emma
-*TODO: others
+*Blade
+*TODO: Others
